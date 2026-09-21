@@ -26,17 +26,30 @@
             <h1>High-end Gaming Gear</h1>
             <h2>In Breda</h2>
         </div>
-        <div class="text-left">
-            <p>Bij LevelUp Hardware draait alles om performance. Of je nu op zoek bent naar een nieuwe laptop die de nieuwste AAA-titels moeiteloos draait, of je huide rig een professionele onderhoudsbeurt nodig heeft; wij staan voor je klaar.</p>
-        </div>
-        <div class="text-left">
-            <p>In onze fysieke winkel combineren we de nostalsische sfeer van de jaren '80 arcades met de brute kracht van de hardware van morgen.</p>
-        </div>
-        <div class="text-left">
-            <p><span>Waarom kiezen voor ons?</span></p>
-        </div>
-        <div class="text-left">
-            <img src="img/storefront.png" alt="foto storefront">
+        <div class="main-flex">
+            <div class="text-left">
+                <p>Bij LevelUp Hardware draait alles om performance. Of je nu op zoek bent naar een nieuwe laptop die de nieuwste AAA-titels moeiteloos draait, of je huide rig een professionele onderhoudsbeurt nodig heeft; wij staan voor je klaar.</p>
+            </div>
+            <div class="text-left">
+                <p>In onze fysieke winkel combineren we de nostalsische sfeer van de jaren '80 arcades met de brute kracht van de hardware van morgen.</p>
+            </div>
+            <div class="text-left">
+                <p><span>Waarom kiezen voor ons?</span></p>
+            </div>
+            <div class="text-left">
+                <img src="img/storefront.png" alt="foto storefront">
+            </div>
+
+            <div class="text-right">
+                <img src="img/laptop.webp" alt="foto laptop">
+            </div>
+            <div class="text-right">
+                <ul>
+                    <li><span>Curated selectie</span> Wij verkopen alleen laptops waar we zelf achter staan. Geen concessies op bouwkwaliteit of koeling</li>
+                    <li><span>Expert Onderhoud</span> Van het vervangen van koelpasta tot complexe hardware-upgrades; wij verlengen de levensduur van je machine.</li>
+                    <li><span>Persoonlijk advies</span> Geen standaard verkooppraatjes maar eerlijk advies gebaseerd op jou favorite games en workflow/</li>
+                </ul>
+            </div>
         </div>
     </main>
 </body>
