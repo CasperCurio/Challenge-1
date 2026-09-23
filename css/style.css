@@ -31,7 +31,8 @@ header img {
     width: 70%;
 }
 
-main {
+body,
+html {
     background-color: #23272e;
 }
 
@@ -84,15 +85,20 @@ p {
 .text-top img {
     width: 40%;
     display: flex;
+
 }
 
 .text-top span {
-    font-weight: 500;
+    font-weight: bolder;
 }
 
 
 .text-bottom img {
     width: 400px;
+    box-shadow: 0 0 25px 15px #44e820;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 10%;
 }
 
 .text-bottom {
@@ -102,10 +108,12 @@ p {
     width: 70%;
 
 }
-.text-bottom ul{
+
+.text-bottom ul {
     width: 40%;
 }
-.text-bottom ul li{
+
+.text-bottom ul li {
     margin: 2%;
     font-size: 23px;
 }
@@ -113,22 +121,58 @@ p {
 .text-bottom img {
     width: 400px;
 }
-.text-bottom span{
+
+.text-bottom span {
     font-weight: bolder;
 }
 
 
 /* about us  */
 
-
+.about-us img {
+    width: 500px;
+    display: flex;
+    align-items: flex-end;
+    box-shadow: 0 0 10px 5px #44e820;
+    border: 5px solid white;
+    border-radius: 20px;
+}
 
 .about-us {
     font-family: "Microma", sans-serif;
     color: lightgray;
     display: flex;
+
 }
 
 .about-us p {
-    width: 40%;
     display: flex;
+    margin: 1% 0%;
+    width: 70%;
+    margin: 3%;
+}
+
+.about-us span{
+    font-weight: bolder;
+}
+
+
+/* =================store=================== */
+
+.product{
+    background-color: #2c2f33;
+    border-radius: 20px;
+}
+
+.product p{
+    font-family: "Microma", sans-serif;
+}
+
+.product img{
+    width: 250px;
+    display: flex;
+    
+    border: 5px solid white;
+    box-shadow: 0 0 10px 5px #44e820;
+    border-radius: 20px;
 }

@@ -46,7 +46,10 @@
 
         </div>
         <div class="text-bottom">
+            <div>
             <img src="img/storefront.png" alt="foto storefront">
+
+            </div>
             <ul>
                 <li><span>Curated selectie</span> Wij verkopen alleen laptops waar we zelf achter staan. Geen concessies op bouwkwaliteit of koeling</li>
                 <li><span>Expert Onderhoud</span> Van het vervangen van koelpasta tot complexe hardware-upgrades; wij verlengen de levensduur van je machine.</li>
