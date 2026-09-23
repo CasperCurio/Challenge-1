@@ -15,7 +15,7 @@ header nav a {
     font-family: "Michroma", sans-serif;
     font-size: 25px;
     font-weight: 200;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 nav {
@@ -63,45 +63,58 @@ h2 {
 
 p {
     font-size: 23px;
+    font-family: "Michroma", sans-serif;
 }
 
-.text-left {
+
+/* ==================main===================== */
+
+
+.text-top {
     display: flex;
-    flex-direction: column;
-
 }
 
-.text-left p {
-    font-family: "Michroma", sans-serif;
+.text-top p {
     color: lightgray;
-    width: 35%;
+    width: 40%;
+    display: flex;
     margin: 1%;
-    margin-left: 5%;
-
 }
 
-.text-left p span {
-    font-weight: 600;
+.text-top img {
+    width: 40%;
+    display: flex;
 }
 
-.text-left img {
-    width: 400px;
-    /* margin-left: 5%; */
-    box-shadow: 10px #88eb82;
+.text-top span {
+    font-weight: 500;
 }
 
-.text-right img {
+
+.text-bottom img {
     width: 400px;
 }
 
-.text-right {
+.text-bottom {
     font-family: "Michroma", sans-serif;
     color: lightgray;
-    /* width: 35%; */
+    display: flex;
+    width: 70%;
+
+}
+.text-bottom ul{
+    width: 40%;
+}
+.text-bottom ul li{
+    margin: 2%;
+    font-size: 23px;
 }
 
-.main-flex {
-    /* display: flex; */
+.text-bottom img {
+    width: 400px;
+}
+.text-bottom span{
+    font-weight: bolder;
 }
 
 
@@ -112,10 +125,10 @@ p {
 .about-us {
     font-family: "Microma", sans-serif;
     color: lightgray;
+    display: flex;
 }
 
-.about-us p{
+.about-us p {
     width: 40%;
     display: flex;
-    justify-content: flex-start;
 }
