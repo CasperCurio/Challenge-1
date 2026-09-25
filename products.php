@@ -31,7 +31,7 @@
                     <img src="img/laptop.webp" alt="">
                     <div class="product-info">
                         <h2>Gaming Laptop X1</h2>
-                        <p>€1499</p>
+                        <p><span id="euro">€</span>1499</p>
                         <p>Krachtige laptop met de nieuwste GPU voor ultieme gaming prestaties.</p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     <img src="img/pc.png" alt="foto pc">
                     <div class="product-info">
                         <h2>Custom Gaming Pc</h2>
-                        <p>€1999</p>
+                        <p><span id="euro">€</span>1999</p>
                         <p>Op maat gemaakte desktop met topkwaliteit componenten voor de maximale snelheid</p>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                     <img src="img/headset.webp" alt="foto headset">
                     <div class="product-info">
                         <h2>Pro Gaming Headset</h2>
-                        <p>€199</p>
+                        <p><span id="euro">€</span>199</p>
                         <p>Comfortabele headset met surround sound voor een meeslepende game-ervaring</p>
                     </div>
                 </div>

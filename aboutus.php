@@ -41,6 +41,15 @@
                 </div>
                 <div>
                     <img src="img/daan.jpg" alt="">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2242.407318175244!2d4.776193076133821!3d51.605972903498106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c69f98f30a96d9%3A0xc386b45d97ac95f1!2sTerheijdenseweg%20350%2C%204826%20AA%20Breda!5e1!3m2!1snl!2snl!4v1790327337415!5m2!1snl!2snl"
+                        width="500"
+                        height="450"
+                        style="border:0;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="strict-origin-when-cross-origin">
+                    </iframe>
                 </div>
             </div>
         </div>

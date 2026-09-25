@@ -46,9 +46,8 @@
 
         </div>
         <div class="text-bottom">
-            <div>
-            <img src="img/storefront.png" alt="foto storefront">
-
+            <div class="img-storefront">
+                <img src="img/storefront.png" alt="foto storefront">
             </div>
             <ul>
                 <li><span>Curated selectie</span> Wij verkopen alleen laptops waar we zelf achter staan. Geen concessies op bouwkwaliteit of koeling</li>
