@@ -109,12 +109,12 @@ p {
 }
 
 
-.text-bottom img {
+.img-storefront img {
     width: 400px;
     box-shadow: 0 0 10px 5px #44e820;
     border: 5px solid white;
     border-radius: 20px;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 .text-bottom {
@@ -138,8 +138,11 @@ p {
     width: 400px;
 }
 
-.text-bottom span {
+.why-us p{
     font-weight: bolder;
+    color: lightgray;
+    margin-left: 1%;
+    margin-top: 2%;
 }
 
 

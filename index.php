@@ -35,16 +35,14 @@
                 <div class="text-top">
                     <p>In onze fysieke winkel combineren we de nostalsische sfeer van de jaren '80 arcades met de brute kracht van de hardware van morgen.</p>
                 </div>
-                <div class="text-top">
+
+                <div class="why-us">
                     <p><span>Waarom kiezen voor ons?</span></p>
-
-                </div>
-                <div class="text-top">
-
                 </div>
             </div>
 
         </div>
+
         <div class="text-bottom">
             <div class="img-storefront">
                 <img src="img/storefront.png" alt="foto storefront">
