@@ -48,6 +48,7 @@ html {
 
 .opening-text h2 {
     color: #F30C10;
+    text-shadow: 0 0 1px, 0 0 11px;
 }
 
 h1 {
@@ -95,7 +96,7 @@ p {
 
 .text-bottom img {
     width: 400px;
-    box-shadow: 0 0 25px 15px #44e820;
+    box-shadow: 0 0 10px 5px #44e820;
     border: 5px solid white;
     border-radius: 20px;
     margin-top: 10%;
@@ -152,27 +153,50 @@ p {
     margin: 3%;
 }
 
-.about-us span{
+.about-us span {
     font-weight: bolder;
 }
 
 
 /* =================store=================== */
 
-.product{
+.product {
     background-color: #2c2f33;
     border-radius: 20px;
-}
-
-.product p{
-    font-family: "Microma", sans-serif;
-}
-
-.product img{
-    width: 250px;
     display: flex;
-    
+    margin-top: 5%;
+
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    margin: 5px 50px;
+}
+
+.product-info h2 {
+    font-family: "Tilt Neon", sans-serif;
+    color: white;
+    color: #F30C10;
+    text-shadow: 0 0 1px, 0 0 11px;
+    width: 100%;
+}
+
+.product-info p {
+    font-family: "Microma", sans-serif;
+    margin-top: 3%;
+    color: lightgray;
+    width: 100%;
+
+}
+
+.product img {
+    width: 250px;
     border: 5px solid white;
     box-shadow: 0 0 10px 5px #44e820;
     border-radius: 20px;
+    margin: 0;
 }
